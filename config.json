@@ -13,7 +13,7 @@
     "title": "Ego-Rede Silva "
   },
   "legend": {
-    "edgeLabel": "gênero",
+    "edgeLabel": "similaridade",
     "colorLabel": "modularidade",
     "nodeLabel": "artistas"
   },
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 0.9,
+      "minEdgeSize": 0.3,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
